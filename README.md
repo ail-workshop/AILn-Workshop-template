@@ -109,11 +109,11 @@ At some point, you will need to update `program.html` and `registration.html`.
     ```
 1. Adjust the program as needed.
 You can use the `/docs` folder in the repo to keep abstracts and the schedule (in .pdf).
-To upload a document to GitHub, use 
+To upload a document to GitHub, go to "Code > Add file > Upload file", choose a file on your computer, write a commit message and click "Commit changes".
 It is a good idea to use underscores or hyphens instead of spaces in file names (e.g., name as "AIL1_abstract.pdf" rather than "AIL1 abstract.pdf").
-This is because unix based systems are sensitive to spaces.
+This is because unix based systems are sensitive to spaces and using spaces might cause some trouble.
 1. Commit changes.
-1. The changes will be published automatically (wait for 2-3min, remember to re-fresh your browser).
+1. The changes will be published automatically (wait for 2-3 min, remember to re-fresh your browser).
 1. Check that all links are working live.
 
 Similarly, update `regisration.html`.
